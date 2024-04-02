@@ -38,8 +38,8 @@ export default function App() {
       source={require('./src/img/logo.png')}
       style={styles.img}
       />
-      <Text style={styles.textoHeader}>Qual melhor opção?</Text>
-        
+      <Text style={styles.textoHeader}>Qual está compensando?</Text>
+      
       <View style={styles.areaInput}>
         <Text style={styles.textoInput}>Álcool (preço por litro): {alcool}</Text>
 
